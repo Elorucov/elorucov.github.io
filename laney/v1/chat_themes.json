@@ -1,0 +1,132 @@
+﻿[
+  {
+    "key": "valentine",
+    "name_en": "Romance",
+    "name_ru": "Романтичное",
+    "name_uk": "Романтичне",
+    "accent": "#FF99CC",
+    "gradient_colors": ["#FF8A65", "#F25383", "#8F13DB"],
+    "background": "https://laney.elor.top/v1/chat_theme/valentine.png",
+    "background_color": "#FF99CC"
+  },
+  {
+    "key": "frost",
+    "name_en": "Frost",
+    "name_ru": "Морозное",
+    "name_uk": "Морозне",
+    "accent": "#3F8AE0",
+    "gradient_colors": ["#66CCFF", "#3F8AE0"],
+    "background": "https://laney.elor.top/v1/chat_theme/frost.png",
+    "background_color": "#B0DEF5"
+  },
+  {
+    "key": "midnight",
+    "name_en": "Blue",
+    "name_ru": "Синее",
+    "name_uk": "Синє",
+    "accent": "#5C9CE6",
+    "gradient_colors": ["#5CC3FF", "#56B9FA", "#449AEB", "#2B71D6", "#1952C7", "#1348C2"],
+    "background": "https://laney.elor.top/v1/chat_theme/midnight.png",
+    "background_color": "#122F6A"
+  },
+  {
+    "key": "emerald",
+    "name_en": "Green",
+    "name_ru": "Зелёное",
+    "name_uk": "Зелене",
+    "accent": "#4BB34B",
+    "gradient_colors": ["#00CC44", "#02C745", "#07B748", "#0EA14D", "#149150", "#168C51"],
+    "background": "https://laney.elor.top/v1/chat_theme/emerald.png",
+    "background_color": "#A1D2B9"
+  },
+  {
+    "key": "lagoon",
+    "name_en": "Light blue",
+    "name_ru": "Голубое",
+    "name_uk": "Блакитне",
+    "accent": "#29AACC",
+    "gradient_colors": ["#2BD9D9", "#2FD4DA", "#3BC5DD", "#4CB0E2", "#58A1E5", "#5C9CE6"],
+    "background": "https://laney.elor.top/v1/chat_theme/lagoon.png",
+    "background_color": "#97D8EE"
+  },
+  {
+    "key": "marine",
+    "name_en": "Marine",
+    "name_ru": "Морское",
+    "name_uk": "Морське",
+    "accent": "#168C51",
+    "gradient_colors": ["#36D952", "#35D25F", "#31BE88", "#2CA2BF", "#288EE8", "#2787F5"],
+    "background": "https://laney.elor.top/v1/chat_theme/marine.png",
+    "background_color": "#1E5D60"
+  },
+  {
+    "key": "retrowave",
+    "name_en": "Retrowave",
+    "name_ru": "Ретровейв",
+    "name_uk": "Ретровейв",
+    "accent": "#5C9CE6",
+    "gradient_colors": ["#2EE6A8", "#3399FF", "#9933FF", "#FF3399"],
+    "background": "https://laney.elor.top/v1/chat_theme/retrowave.png",
+    "background_color": "#304171"
+  },
+  {
+    "key": "sunset",
+    "name_en": "Orange",
+    "name_ru": "Оранжевое",
+    "name_uk": "Помаранчеве",
+    "accent": "#F05C44",
+    "gradient_colors": ["#FFD24D", "#F9994B", "#F26549", "#ED4755", "#E6457A"],
+    "background": "https://laney.elor.top/v1/chat_theme/sunset.png",
+    "background_color": "#F8B29B"
+  },
+  {
+    "key": "unicorn",
+    "name_en": "Soft",
+    "name_ru": "Нежное",
+    "name_uk": "Ніжне",
+    "accent": "#F474A8",
+    "gradient_colors": ["#FF99CC", "#A179F2", "#5CA1E6"],
+    "background": "https://laney.elor.top/v1/chat_theme/unicorn.png",
+    "background_color": "#E0C2E1"
+  },
+  {
+    "key": "candy",
+    "name_en": "Pink",
+    "name_ru": "Розовое",
+    "name_uk": "Рожеве",
+    "accent": "#F474A8",
+    "gradient_colors": ["#FF99CC", "#FD92C5", "#F77DB1", "#EE6195", "#E84C81", "#E6457A"],
+    "background": "https://laney.elor.top/v1/chat_theme/candy.png",
+    "background_color": "#7C2D4A"
+  },
+  {
+    "key": "disco",
+    "name_en": "Disco",
+    "name_ru": "Диско",
+    "name_uk": "Диско",
+    "accent": "#F060C0",
+    "gradient_colors": ["#FFB726", "#FF2693", "#8122E0", "#2693FF"],
+    "background": "https://laney.elor.top/v1/chat_theme/disco.png",
+    "background_color": "#BDC7F6"
+  },
+  {
+    "key": "crimson",
+    "name_en": "Red",
+    "name_ru": "Красное",
+    "name_uk": "Червоне",
+    "accent": "#EB4250",
+    "gradient_colors": ["#FF5C5C", "#FB5759", "#EE4851", "#DC3346", "#CF233E", "#CB1E3B"],
+    "background": "https://laney.elor.top/v1/chat_theme/crimson.png",
+    "background_color": "#EEA9B1"
+  },
+  {
+    "key": "twilight",
+    "name_en": "Beautiful",
+    "name_ru": "Красивое",
+    "name_uk": "Гарне",
+    "accent": "#937FF5",
+    "gradient_colors": ["#FF4D87", "#9F40FF", "#3399FF"],
+    "background": "https://laney.elor.top/v1/chat_theme/twilight.png",
+    "background_color": "#483066"
+  }
+]

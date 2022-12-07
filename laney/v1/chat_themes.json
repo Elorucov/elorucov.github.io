@@ -10,12 +10,22 @@
     "background_color": "#FF99CC"
   },
   {
+    "key": "new_year",
+    "name_en": "New year",
+    "name_ru": "Новогоднее",
+    "name_uk": "Новорічне",
+    "accent": "#2866D5",
+    "gradient_colors": ["#BB64E4", "#805BD7", "#2866D5"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/new_year.png",
+    "background_color": "#12423E"
+  },
+  {
     "key": "frost",
     "name_en": "Frost",
     "name_ru": "Морозное",
     "name_uk": "Морозне",
-    "accent": "#3F8AE0",
-    "gradient_colors": ["#66CCFF", "#3F8AE0"],
+    "accent": "#0278FF",
+    "gradient_colors": ["#4FA0FF", "#016CEA"],
     "background": "https://elorucov.github.io/laney/v1/chat_theme/frost.png",
     "background_color": "#B0DEF5"
   },

@@ -1,5 +1,15 @@
 ﻿[
   {
+    "key": "warm_valentine",
+    "name_en": "Amorous",
+    "name_ru": "Амурное",
+    "name_uk": "Амурне",
+    "accent": "#E6457A",
+    "gradient_colors": ["#F3386A", "#FF819E"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/warm_valentine.png",
+    "background_color": "#FFC8D6"
+  },
+  {
     "key": "valentine",
     "name_en": "Romance",
     "name_ru": "Романтичное",

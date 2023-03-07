@@ -1,45 +1,5 @@
 ﻿[
   {
-    "key": "warm_valentine",
-    "name_en": "Amorous",
-    "name_ru": "Амурное",
-    "name_uk": "Амурне",
-    "accent": "#E6457A",
-    "gradient_colors": ["#F3386A", "#FF819E"],
-    "background": "https://elorucov.github.io/laney/v1/chat_theme/warm_valentine.png",
-    "background_color": "#FFC8D6"
-  },
-  {
-    "key": "valentine",
-    "name_en": "Romance",
-    "name_ru": "Романтичное",
-    "name_uk": "Романтичне",
-    "accent": "#FF99CC",
-    "gradient_colors": ["#FF8A65", "#F25383", "#8F13DB"],
-    "background": "https://elorucov.github.io/laney/v1/chat_theme/valentine.png",
-    "background_color": "#FF99CC"
-  },
-  {
-    "key": "new_year",
-    "name_en": "New year",
-    "name_ru": "Новогоднее",
-    "name_uk": "Новорічне",
-    "accent": "#2866D5",
-    "gradient_colors": ["#BB64E4", "#805BD7", "#2866D5"],
-    "background": "https://elorucov.github.io/laney/v1/chat_theme/new_year.png",
-    "background_color": "#12423E"
-  },
-  {
-    "key": "frost",
-    "name_en": "Frost",
-    "name_ru": "Морозное",
-    "name_uk": "Морозне",
-    "accent": "#0278FF",
-    "gradient_colors": ["#4FA0FF", "#016CEA"],
-    "background": "https://elorucov.github.io/laney/v1/chat_theme/frost.png",
-    "background_color": "#B0DEF5"
-  },
-  {
     "key": "midnight",
     "name_en": "Blue",
     "name_ru": "Синее",
@@ -148,5 +108,55 @@
     "gradient_colors": ["#FF4D87", "#9F40FF", "#3399FF"],
     "background": "https://elorucov.github.io/laney/v1/chat_theme/twilight.png",
     "background_color": "#483066"
+  },
+  {
+    "key": "womens_day",
+    "name_en": "Spring",
+    "name_ru": "Весеннее",
+    "name_uk": "Весняне",
+    "accent": "E6457A",
+    "gradient_colors": ["#FF99CC", "#E52E6A"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/womens_day.png",
+    "background_color": "FFBACB"
+  },
+  {
+    "key": "warm_valentine",
+    "name_en": "Amorous",
+    "name_ru": "Амурное",
+    "name_uk": "Амурне",
+    "accent": "#E6457A",
+    "gradient_colors": ["#F3386A", "#FF819E"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/warm_valentine.png",
+    "background_color": "#FFC8D6"
+  },
+  {
+    "key": "valentine",
+    "name_en": "Romance",
+    "name_ru": "Романтичное",
+    "name_uk": "Романтичне",
+    "accent": "#FF99CC",
+    "gradient_colors": ["#FF8A65", "#F25383", "#8F13DB"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/valentine.png",
+    "background_color": "#FF99CC"
+  },
+  {
+    "key": "new_year",
+    "name_en": "New year",
+    "name_ru": "Новогоднее",
+    "name_uk": "Новорічне",
+    "accent": "#2866D5",
+    "gradient_colors": ["#BB64E4", "#805BD7", "#2866D5"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/new_year.png",
+    "background_color": "#12423E"
+  },
+  {
+    "key": "frost",
+    "name_en": "Frost",
+    "name_ru": "Морозное",
+    "name_uk": "Морозне",
+    "accent": "#0278FF",
+    "gradient_colors": ["#4FA0FF", "#016CEA"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/frost.png",
+    "background_color": "#B0DEF5"
   }
 ]

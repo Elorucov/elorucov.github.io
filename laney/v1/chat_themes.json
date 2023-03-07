@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "key": "midnight",
     "name_en": "Blue",
@@ -114,7 +114,7 @@
     "name_en": "Spring",
     "name_ru": "Весеннее",
     "name_uk": "Весняне",
-    "accent": "E6457A",
+    "accent": "#E6457A",
     "gradient_colors": ["#FF99CC", "#E52E6A"],
     "background": "https://elorucov.github.io/laney/v1/chat_theme/womens_day.png",
     "background_color": "FFBACB"

@@ -1,5 +1,15 @@
 [
   {
+    "key": "mable",
+    "name_en": "Standart",
+    "name_ru": "Стандартное",
+    "name_uk": "Стандартне",
+    "accent": "#D9F4FF",
+    "gradient_colors": ["#D9F4FF", "#D9F4FF"],
+    "background": "https://elorucov.github.io/laney/v1/chat_theme/mable.png",
+    "background_color": "#96C8EE"
+  },
+  {
     "key": "midnight",
     "name_en": "Blue",
     "name_ru": "Синее",

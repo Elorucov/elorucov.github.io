@@ -4,8 +4,8 @@
     "name_en": "Standart",
     "name_ru": "Стандартное",
     "name_uk": "Стандартне",
-    "accent": "#247FDE",
-    "gradient_colors": ["#247FDE", "#247FDE"],
+    "accent": "#358FED",
+    "gradient_colors": ["#529EF4", "#2688EB"],
     "background": "https://elorucov.github.io/laney/v1/chat_theme/mable.png",
     "background_color": "#96C8EE"
   },

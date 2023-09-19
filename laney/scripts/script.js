@@ -10,11 +10,9 @@ document.addEventListener("DOMContentLoaded", function() {
 function changeTheme(dark) {
     if (dark) {
         document.documentElement.setAttribute("theme", "dark");
-        document.getElementById("screenshot").href.baseVal = "assets/screen_dark_1.14.png";
     } else {
         if(document.documentElement.hasAttribute("theme"))  { 
-            document.documentElement.removeAttribute("theme"); 
-            document.getElementById("screenshot").href.baseVal = "assets/screen_light_1.14.png";
+            document.documentElement.removeAttribute("theme");
         }
     }
 }

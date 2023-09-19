@@ -1,3 +1,19 @@
+body, button, textarea, input {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Variable Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.vardfont {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.vartfont {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Variable Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.varsfont {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Variable Small", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
 :root {
     --max_width: 960px;
     --max_width_wide: 1280px;
@@ -132,11 +148,34 @@ section:first-child::before {
     justify-content: space-around;
 }
 
-.screenshotContainer {
+.screenshotRoot {
+    position: relative;
+    padding-top: calc(100% / 40 * 27);
+}
+
+.screenshotRoot::before {
+    content: '';
+    display: block;
     width: 100%;
+}
+
+.screenshotMain, .screenshotBorder {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.screenshotMain {
+    background-size: contain;
+}
+
+.screenshotBorder {
     box-sizing: border-box;
     border-radius: calc(800px / 160)/calc(540px / 108);
     box-shadow: var(--vk_shadow);
+    border: 1px solid var(--screenshot_border);
 }
 
 #description {

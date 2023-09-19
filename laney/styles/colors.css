@@ -18,7 +18,7 @@
     --logotext_url: url(../assets/logotext_light.svg);
     --screen_border: #C5C4C4;
     --separator_common: #d7d8d9;
-    --screenshot_border: rgba(0, 0, 0, 0.28);
+    --screenshot_border: rgba(0, 0, 0, 0.14);
 }
 
 :root[theme="dark"] {
@@ -41,5 +41,13 @@
     --logotext_url: url(../assets/logotext_dark.svg);
     --screen_border: #C5C4C4;
     --separator_common: #363738;
-    --screenshot_border: rgba(255, 255, 255, 0.28);
+    --screenshot_border: rgba(255, 255, 255, 0.14);
+}
+
+:root .screenshotMain {
+    background-image: url("../assets/screen_light_1.14.png");
+}
+
+:root[theme="dark"] .screenshotMain {
+    background-image: url("../assets/screen_dark_1.14.png");
 }

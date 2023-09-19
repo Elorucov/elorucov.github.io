@@ -152,7 +152,7 @@ section:first-child::before {
 
 #links .additional {
     margin: 6px auto 0px auto;
-    color: var(--text_secondary);
+    color: var(--text_subhead);
     font-size: 13px;
     font-weight: 400;
 }
@@ -368,7 +368,7 @@ footer > .insection {
     margin: 0px auto;
     padding: 12px 16px;
     box-sizing: border-box;
-    color: var(--text_secondary);
+    color: var(--text_subhead);
     user-select: none;
 }
 

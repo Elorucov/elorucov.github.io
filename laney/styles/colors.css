@@ -45,9 +45,9 @@
 }
 
 :root .screenshotMain {
-    background-image: url("../assets/screen_light_1.14.png");
+    background-image: url("../assets/screen_light_1.18.png");
 }
 
 :root[theme="dark"] .screenshotMain {
-    background-image: url("../assets/screen_dark_1.14.png");
+    background-image: url("../assets/screen_dark_1.18.png");
 }

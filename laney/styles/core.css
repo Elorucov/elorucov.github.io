@@ -54,7 +54,7 @@ button {
 
 .ttcore .ttcontent {
     display: none;
-    width: 210px;
+    width: 240px;
     background-color: #47a3ff;
     color: #fff;
     box-shadow: 0 20px 40px rgb(0 0 0 / 30%), 0 0 1px 0 rgb(0 20 51 / 40%);
@@ -199,6 +199,7 @@ section:first-child::before {
 .additional p {
     margin: 6px auto 0px auto;
     text-align: center;
+    user-select: none;
 }
 
 .ulink {

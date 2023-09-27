@@ -68,6 +68,10 @@ button {
     transform: translate(-40px, -1px);
 }
 
+.ttcontent {
+    user-select: text;
+}
+
 .ttcore:hover .ttcontent {
     display: block;
 }

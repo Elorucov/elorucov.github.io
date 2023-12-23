@@ -1,17 +1,17 @@
 body, button, textarea, input {
-    font-family: -apple-system, system-ui, "Segoe UI Variable Text", "Segoe UI", Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Segoe UI Variable Text", -apple-system, system-ui, "Segoe UI", Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .vardfont {
-    font-family: -apple-system, system-ui, "Segoe UI Variable Display", "Segoe UI", Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Segoe UI Variable Display", "Segoe UI", -apple-system, system-ui, Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .vartfont {
-    font-family: -apple-system, system-ui, "Segoe UI Variable Text", "Segoe UI", Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Segoe UI Variable Text", "Segoe UI", -apple-system, system-ui, Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .varsfont {
-    font-family: -apple-system, system-ui, "Segoe UI Variable Small", "Segoe UI", Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Segoe UI Variable Small", "Segoe UI", -apple-system, system-ui, Cantarell, Ubuntu, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 :root {

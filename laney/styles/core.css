@@ -89,6 +89,52 @@ button {
     color:  var(--button_primary_foreground);
 }
 
+.banner {
+    background: var(--background_secondary);
+    margin: 0px 12px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    padding: 12px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    position: relative;
+}
+
+.banner::before {
+    border: 1px solid var(--image_border);
+    border-radius: inherit;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.banner a {
+    text-decoration: none;
+}
+
+.banner a, .arrowlink svg {
+    color: var(--text_link);
+}
+
+.arrowlink {
+    display: flex;
+    gap: 6px;
+    color: var(--text_link);
+}
+
+.lroot > .banner:first-child {
+    margin-top: 12px;
+}
+
 .insection {
     margin: 0px auto;
     max-width: var(--max_width);
@@ -110,7 +156,7 @@ section::before, footer::before {
     content: '';
 }
 
-section:first-child::before {
+section:first-child::before, section#main::before {
     height: 0px;
 }
 
@@ -273,6 +319,11 @@ button > .wide {
 }
 
 @media all and (max-width: 788px) {
+    .banner {
+        flex-direction: column;
+        gap: 6px;
+    }
+
     .product_info {
         flex-direction: column-reverse;
         padding: 24px 0px 0px 0px;

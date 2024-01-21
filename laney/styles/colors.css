@@ -1,6 +1,7 @@
 :root {
     --accent: #3f8ae0;
     --background_content: #fff;
+    --background_secondary: #f0f2f5;
     --button_primary_background: #5181b8;
     --button_primary_foreground: #fff;
     --button_secondary_background: #e5ebf1;
@@ -11,6 +12,7 @@
     --text_tertiary: #99a2ad;
     --text_link: #4986cc;
     --shadow: rgba(0,0,0,0.25);
+    --image_border: rgba(0,0,0,0.08);
     --logo_fill: #0070c0;
     --logo_text: #000;
     --logo_shadow: rgba(0,0,0,0.1);
@@ -24,6 +26,7 @@
     --accent: #71aaeb;
     --background_content: #1d2027;
     // --background_content: #19191a;
+    --background_secondary: #333333;
     --button_primary_background: #e1e3e6;
     --button_primary_foreground: #19191a;
     --button_secondary_background: #454647;
@@ -34,6 +37,7 @@
     --text_tertiary: #5d5f61;
     --text_link: #71aaeb;
     --shadow: rgba(0,0,0,0.6);
+    --image_border: rgba(255, 255, 255, 0.08);
     --logo_fill: #fff;
     --logo_text: #fff;
     --logo_shadow: rgba(0,0,0,0.6);
